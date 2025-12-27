@@ -1,6 +1,6 @@
 # Marcos Vinícius Gen Pinto
 
-- 📧 Email: **mvgp@gmail.com**
+- 📧 Email: **mvgp.sc@gmail.com**
 - 💬 Telegram: **@marcos_vv**
 - X: **@mvgp_td**
 
