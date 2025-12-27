@@ -5,7 +5,7 @@
 - X: **@mvgp_td**
 
 ## Summary
-Multidisciplinary professional with experience since 2005 in data analysis, process automation, and quantitative investing. Strong background in Data Analysis, blockchain, DeFi, and portfolio management. Advanced developer in Python with expertise in AI. Skilled in designing and deploying fully automated investment strategies. Currently building proficiency in Rust and TypeScript (since 09/2025).
+Multidisciplinary professional (since 2005) focused on data analysis, process automation, and quantitative investing. Advanced Python developer with AI expertise, building fully automated investment strategies across global markets and Web3/DeFi. Self-directed, disciplined, and organized learner, quickly acquiring new technologies through hands-on practice and technical documentation. Currently building proficiency in Rust and TypeScript (since 09/2025).
 
 ## Education & Certifications
 **BSc in Civil Engineering** — Universidade Estácio de Sá
